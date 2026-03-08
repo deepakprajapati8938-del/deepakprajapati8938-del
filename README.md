@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Deepak Prajapati and I'm  B.etch Under Graduate , from Medicaps University, India</h2>
 
 ###
 
