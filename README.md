@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Deepak Prajapati and I'm  B.etch Under Graduate , from Medicaps University, India</h2>
+<h2 align="left">Hi 👋! I'm Deepak Prajapati, an undergraduate student pursuing a Bachelor of Technology (B.Tech) at Medi-Caps University, Indore, Madhya Pradesh, India./h2>
 
 ###
 
