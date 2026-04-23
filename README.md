@@ -1,96 +1,196 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Deepak%20Prajapati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Open%20Source&descAlignY=55" />
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepak%20Prajapati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=@caged.coder%20%7C%20Full%20Stack%20%7C%20ML%20%7C%20Open%20Source&descAlignY=52&descAlign=50" />
-
-<!-- Socials -->
-<p>
-  <a href="https://www.instagram.com/caged.coder/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/deepak-prajapati-caged-coder/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@CagedCoder">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-  </a>
-  <a href="mailto:deepakprajapati8938@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Explorer+%F0%9F%A4%96;Spring+Boot+%2B+React+%2B+AI+Builder;Clean+Code+%7C+Scalable+Systems;Always+Learning%2C+Always+Shipping" />
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-prajapati-caged-coder/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caged.coder/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakprajapati8938@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepakprajapati8938-del&color=00f7ff&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/deepakprajapati8938-del?style=flat-square&color=00f7ff&label=Followers)
+
+</div>
+
 ---
 
-## 💻 Tech Stack
+## 🧠 About Me
+
+```yaml
+name: Deepak Prajapati
+role: Full Stack Developer & ML Enthusiast
+location: India
+focus:
+  - Scalable backend systems (Spring Boot, Node.js)
+  - AI-integrated applications
+  - Full stack web development (React + Next.js)
+currently_learning:
+  - System Design & Advanced Backend Architecture
+  - Advanced ML pipelines
+looking_for: Internships / Entry-level SWE roles
+open_to_work: true
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Internship Portal System
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Deepak12159/Internship-Portal)
+
+A **production-ready** full-stack platform to manage internship workflows end-to-end.
+
+**Tech:** `React` `Node.js` `MongoDB` `Express`
+
+- 🔐 JWT Auth & role-based access (Admin / Student / HR)
+- 📊 Real-time dashboards for all user roles
+- 📁 Document upload & application tracking
+- 🎯 Designed for real-world deployment
+
+</td>
+<td width="50%">
+
+### 🤖 AI Microservices Platform
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main)
+
+Microservices backend integrated with AI — built for **scale and modularity**.
+
+**Tech:** `Spring Boot` `Docker` `REST APIs` `Java`
+
+- 🧩 Decoupled service architecture
+- 🔗 Inter-service communication via REST
+- 🐳 Containerized with Docker
+- 📐 Follows enterprise-grade design patterns
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 AI Plan Generator
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Deepak12159/AI-PLAN)
+
+Generates **intelligent, structured plans** from user input using ML.
+
+**Tech:** `Python` `Machine Learning` `NLP`
+
+- 🤖 Smart context-aware suggestions
+- 📋 Structured plan outputs
+- 🔁 Iterative plan refinement
+- 📊 Practical AI applied to productivity
+
+</td>
+<td width="50%">
+
+### 💡 More Coming Soon...
+- 🔨 Currently building new projects
+- 🌟 Check my repos for latest work
+- 📌 Always experimenting with new tech
+
+[![All Repos](https://img.shields.io/badge/See_All_Projects-2c5364?style=for-the-badge&logo=github)](https://github.com/deepakprajapati8938-del?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cs,r,html,css" />
 
-**Frameworks & Runtimes**
+**Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,tailwind,django,flask,fastapi,redux" />
 
-**Data & ML**
+**Databases & DevOps**
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,docker,git,github,linux,vscode" />
 
-**Databases**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakprajapati8938-del&theme=react&hide_border=true&include_all_commits=true&count_private=false" />
-</p>
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=deepakprajapati8938-del&theme=react&hide_border=true" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakprajapati8938-del&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepakprajapati8938-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=deepakprajapati8938-del&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakprajapati8938-del&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
 
 ---
 
-## ✍️ Dev Quote
+## 📅 Contribution Graph
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakprajapati8938-del&theme=tokyo-night&hide_border=true&area=true&area_color=00f7ff" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=deepakprajapati8938-del&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+</div>
+
+---
+
+## 🎯 What I Bring to the Table
+
+| Skill Area | Details |
+|---|---|
+| 🔧 **Backend** | REST APIs, Microservices, Spring Boot, Node.js/Express |
+| 🎨 **Frontend** | React, Next.js, Tailwind CSS, Responsive UI |
+| 🤖 **AI/ML** | Model integration, Python ML pipelines, AI-powered apps |
+| 🏗 **Architecture** | Scalable system design, clean code, SOLID principles |
+| 🐳 **DevOps** | Docker, Git workflows, CI/CD basics |
+| 📐 **CS Fundamentals** | DSA, OOP, Database Design |
+
+---
+
+## 💡 Dev Philosophy
+
+<div align="center">
+
+> *"Code is not just about solving problems — it's about solving them **cleanly, efficiently, and at scale**."*
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm actively looking for **internships and entry-level SWE opportunities**. If you're working on something interesting or hiring — let's talk!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-prajapati-caged-coder/)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakprajapati8938@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
 </div>
