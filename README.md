@@ -1,25 +1,46 @@
 # Featured Projects
 
-## billbrain-ai
-[GitHub Link](https://github.com/billbrain-ai)
-Description of the billbrain-ai project.
+## Internship Portal System
+- **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+- **Features:** User registration, Job postings, Resume uploads, Apply for jobs
+- **Live Demo:** [Internship Portal System Demo](https://example.com/internship-portal)
+
+## AI Microservices Platform
+- **Tech Stack:** Node.js, Express.js, Docker, AWS
+- **Features:** Microservice architecture, RESTful API, Easy scalability
+- **Live Demo:** [AI Microservices Platform Demo](https://example.com/ai-microservices)
+
+## AI Plan Generator
+- **Tech Stack:** Python, Flask, TensorFlow
+- **Features:** Generates personalized AI plans, Users can customize their plans
+- **Live Demo:** [AI Plan Generator Demo](https://example.com/ai-plan-generator)
+
+## BillBrain AI
+- **Tech Stack:** Python, Django, PostgreSQL
+- **Features:** Automates billing processes with AI, Simplified invoice management
+- **Live Demo:** [BillBrain AI Demo](https://example.com/billbrain-ai)
 
 ## ALOA
-[GitHub Link](https://github.com/ALOA)
-Description of the ALOA project.
+- **Tech Stack:** Java, Spring Boot, MySQL
+- **Features:** Streamlines loan application processes, Real-time status tracking
+- **Live Demo:** [ALOA Demo](https://example.com/aloa)
 
-## Github_profile_analyzer
-[GitHub Link](https://github.com/Github_profile_analyzer)
-Description of the Github_profile_analyzer project.
+## Github Profile Analyzer
+- **Tech Stack:** JavaScript, D3.js, Node.js
+- **Features:** Visualizes contributions, Compares profiles
+- **Live Demo:** [GitHub Profile Analyzer Demo](https://example.com/github-profile-analyzer)
 
 ## Portfolio
-[GitHub Link](https://github.com/Portfolio)
-Description of the Portfolio project.
+- **Tech Stack:** React, Bootstrap, Node.js
+- **Features:** Showcase of projects, Contact form
+- **Live Demo:** [Portfolio Demo](https://example.com/portfolio)
 
 ## Text-To-Handwriting
-[GitHub Link](https://github.com/Text-To-Handwriting)
-Description of the Text-To-Handwriting project.
+- **Tech Stack:** Python, Flask, OpenCV
+- **Features:** Converts text to handwritten notes, Customizable styles
+- **Live Demo:** [Text-To-Handwriting Demo](https://example.com/text-to-handwriting)
 
-## Smart-Attendance-Manager
-[GitHub Link](https://github.com/Smart-Attendance-Manager)
-Description of the Smart-Attendance-Manager project.
+## Smart Attendance Manager
+- **Tech Stack:** PHP, MySQL, JavaScript
+- **Features:** Tracks attendance, Reports generation, Multi-user support
+- **Live Demo:** [Smart Attendance Manager Demo](https://example.com/smart-attendance-manager)
