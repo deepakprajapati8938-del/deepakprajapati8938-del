@@ -53,37 +53,9 @@ motto     : "Code is not just about solving problems —
 
 | | |
 |---|---|
-| **Tech Stack** | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
+| **Tech Stack** | `REACT/REDUX` `TailWind CSS` `NODE JS` `EXPRESS` `MongoDB` |
 | **Key Features** | User registration · Job postings · Resume uploads · Apply for jobs |
 | **Highlights** | Role-based access control, real-world application design |
-
----
-
-### 🤖 AI Microservices Platform
-> *Production-grade microservices backend with integrated AI components and cloud deployment.*
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/ai-microservices)
-
-| | |
-|---|---|
-| **Tech Stack** | `Node.js` `Express.js` `Docker` `AWS` |
-| **Key Features** | Microservice architecture · RESTful APIs · Horizontal scalability |
-| **Highlights** | Containerized services, cloud-ready infrastructure |
-
----
-
-### 🧠 AI Plan Generator
-> *Intelligent planning assistant that generates structured, personalized action plans from user input.*
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/AI-PLAN)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/ai-plan-generator)
-
-| | |
-|---|---|
-| **Tech Stack** | `Python` `Flask` `TensorFlow` |
-| **Key Features** | Smart AI-generated plans · User customization · Structured outputs |
-| **Highlights** | Practical ML integration, end-to-end AI pipeline |
 
 ---
 
@@ -125,6 +97,18 @@ motto     : "Code is not just about solving problems —
 | **Highlights** | Advanced D3.js charts, GitHub API integration |
 
 ---
+### ✍️ Text-To-Handwriting
+> *Creative tool that converts typed text into realistic, customizable handwritten notes.*
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/text-to-handwriting)
+
+| | |
+|---|---|
+| **Tech Stack** | `Python` `Flask` `OpenCV` |
+| **Key Features** | Text-to-handwriting conversion · Customizable styles · Export support |
+| **Highlights** | Computer vision pipeline, creative image processing |
+
+---
 
 ### 🎨 Portfolio
 > *Personal developer portfolio showcasing projects, skills, and professional experience.*
@@ -139,19 +123,6 @@ motto     : "Code is not just about solving problems —
 
 ---
 
-### ✍️ Text-To-Handwriting
-> *Creative tool that converts typed text into realistic, customizable handwritten notes.*
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/text-to-handwriting)
-
-| | |
-|---|---|
-| **Tech Stack** | `Python` `Flask` `OpenCV` |
-| **Key Features** | Text-to-handwriting conversion · Customizable styles · Export support |
-| **Highlights** | Computer vision pipeline, creative image processing |
-
----
-
 ### 📋 Smart Attendance Manager
 > *Multi-user attendance tracking system with automated reporting and admin controls.*
 
@@ -162,6 +133,32 @@ motto     : "Code is not just about solving problems —
 | **Tech Stack** | `PHP` `MySQL` `JavaScript` |
 | **Key Features** | Attendance tracking · Report generation · Multi-user support |
 | **Highlights** | Role-based access, admin dashboard, institutional-scale design |
+
+---
+### 🤖 AI Microservices Platform
+> *Production-grade microservices backend with integrated AI components and cloud deployment.*
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/ai-microservices)
+
+| | |
+|---|---|
+| **Tech Stack** | `Spring Boot` `RabbitMQ` `Docker` `Microservices` |
+| **Key Features** | Microservice architecture · RESTful APIs · Horizontal scalability |
+| **Highlights** | Containerized services, cloud-ready infrastructure |
+---
+
+### 🧠 AI Plan Generator
+> *Intelligent planning assistant that generates structured, personalized action plans from user input.*
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/AI-PLAN)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/ai-plan-generator)
+
+| | |
+|---|---|
+| **Tech Stack** | `Python` `Flask` `TensorFlow` |
+| **Key Features** | Smart AI-generated plans · User customization · Structured outputs |
+| **Highlights** | Practical ML integration, end-to-end AI pipeline |
 
 ---
 
