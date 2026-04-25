@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7EB8F7&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Integrating+AI+into+real-world+products;Clean+code+%7C+Clean+architecture;Always+shipping%2C+always+learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7EB8F7&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Integrating+AI+into+real-world+products;Microservices+%7C+Clean+Architecture+%7C+DevOps;Always+shipping%2C+always+learning" />
 
 <br/><br/>
 
@@ -35,27 +35,28 @@
 name      : Deepak Prajapati
 alias     : caged.coder
 role      : Full Stack Developer & ML Enthusiast
-focus     : Scalable Systems · AI Integration · Clean Architecture
-learning  : System Design · Advanced Backend · DSA
-motto     : "Code is not just about solving problems —
-             it's about solving them cleanly, efficiently, and at scale."
+status    : Final Year B.Tech Student · Open to Internships & Collaborations
+focus     : Scalable Systems · AI Integration · Microservices · Clean Architecture
+learning  : System Design · Advanced Backend Engineering · DSA
+open_to   : Internships · Open Source · Freelance · Full-Time Roles (2025)
+motto     : "Good code solves the problem.
+             Great code makes the next problem easier to solve."
 ```
 
 ---
 
 ## 🚀 Projects
 
-### 🌐 Internship Portal System
-> *A complete full-stack platform to streamline internship workflows end-to-end.*
+### 🤖 ALOA — Autonomous Laptop Operating Agent
+> *A high-performance agentic OS layer that transforms your laptop into a proactive, intelligent workspace.*
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/Internship-Portal)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/internship-portal)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/aloa)
 
 | | |
 |---|---|
-| **Tech Stack** | `REACT/REDUX` `TailWind CSS` `NODE JS` `EXPRESS` `MongoDB` |
-| **Key Features** | User registration · Job postings · Resume uploads · Apply for jobs |
-| **Highlights** | Role-based access control, real-world application design |
+| **Tech Stack** | `Next.js` `FastAPI` `Python` `Framer Motion` `Nvidia CUDA` `Gemma-4` |
+| **Key Features** | Observe → Orient → Decide → Act agentic loop |
+| **Highlights** | NetworkX-powered Knowledge Graph for long-term memory; GPU-accelerated inference |
 
 ---
 
@@ -66,22 +67,37 @@ motto     : "Code is not just about solving problems —
 
 | | |
 |---|---|
-| **Tech Stack** | `Python` `Streamlit` `langdetect` `pytest + hypothesis`  |
-| **Key Features** | AI-automated billing · Invoice management · Analytics dashboard |
-| **Highlights** | AI-driven financial automation, enterprise-ready backend |
+| **Tech Stack** | `Python` `Streamlit` `langdetect` `pytest` `hypothesis` |
+| **Key Features** | AI-automated billing · Multi-language invoice parsing · Analytics dashboard |
+| **Highlights** | Property-based testing with Hypothesis; enterprise-ready financial automation |
 
 ---
 
-### 🏦 ALOA — Autonomous Laptop Operating Agent
-> *high-performance, agentic operating system designed to transform your laptop into a proactive, intelligent workspace.*
+### 🌐 Internship Portal System
+> *A complete full-stack platform to streamline internship workflows end-to-end.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/aloa)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/Internship-Portal)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/internship-portal)
 
 | | |
 |---|---|
-| **Tech Stack** | `Next.js` `Framer Motion` `FastAPI` `Nvidia CUDA` `Python` `Gemma-4` |
-| **Key Features** | Observe  Orient  Decide  Act |
-| **Highlights** | NetworkX-powered Knowledge Graph to maintain long-term memory. |
+| **Tech Stack** | `React` `Redux` `Tailwind CSS` `Node.js` `Express` `MongoDB` |
+| **Key Features** | User registration · Job postings · Resume uploads · Application tracking |
+| **Highlights** | JWT auth, role-based access control (student / company / admin), real-world workflow design |
+
+---
+
+### 🏗️ AI Microservices Platform
+> *Production-grade microservices backend with integrated AI components and cloud-ready deployment.*
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/ai-microservices)
+
+| | |
+|---|---|
+| **Tech Stack** | `Spring Boot` `RabbitMQ` `Docker` `REST APIs` |
+| **Key Features** | Decoupled microservice architecture · Async messaging · Horizontal scalability |
+| **Highlights** | Containerised with Docker; event-driven communication via RabbitMQ |
 
 ---
 
@@ -92,21 +108,49 @@ motto     : "Code is not just about solving problems —
 
 | | |
 |---|---|
-| **Tech Stack** | `React` `TypeScript` |
-| **Key Features** | Contribution visualization · Profile comparison · Activity insights |
-| **Highlights** | Advanced D3.js charts, GitHub API integration |
+| **Tech Stack** | `React` `TypeScript` `D3.js` `GitHub API` |
+| **Key Features** | Contribution heatmaps · Side-by-side profile comparison · Activity insights |
+| **Highlights** | Advanced D3.js visualizations; real-time GitHub API integration |
 
 ---
+
 ### ✍️ Text-To-Handwriting
-> *Creative tool that converts typed text into realistic, customizable handwritten notes.*
+> *Creative tool that converts typed text into realistic, customizable handwritten output.*
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/text-to-handwriting)
 
 | | |
 |---|---|
-| **Tech Stack** | `TypeScript` `React` `TailWind CSS` |
-| **Key Features** | Text-to-handwriting conversion · Customizable styles · Export support |
-| **Highlights** | Computer vision pipeline, creative image processing |
+| **Tech Stack** | `TypeScript` `React` `Tailwind CSS` |
+| **Key Features** | Text-to-handwriting conversion · Style customization · PNG/PDF export |
+| **Highlights** | Canvas-based rendering pipeline; multiple handwriting style presets |
+
+---
+
+### 📋 Smart Attendance Manager
+> *Multi-user attendance tracking system with automated reporting and admin controls.*
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/smart-attendance-manager)
+
+| | |
+|---|---|
+| **Tech Stack** | `React` `JavaScript` `CSS` |
+| **Key Features** | Attendance tracking · Report generation · Multi-user support |
+| **Highlights** | Role-based access; admin dashboard designed for institutional scale |
+
+---
+
+### 🧠 AI Plan Generator
+> *Intelligent planning assistant that generates structured, personalized action plans from natural language input.*
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/AI-PLAN)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/ai-plan-generator)
+
+| | |
+|---|---|
+| **Tech Stack** | `Python` `Flask` `TensorFlow` |
+| **Key Features** | Context-aware plan generation · User customization · Structured outputs |
+| **Highlights** | End-to-end ML pipeline; practical AI applied to productivity |
 
 ---
 
@@ -119,46 +163,7 @@ motto     : "Code is not just about solving problems —
 |---|---|
 | **Tech Stack** | `React` `Tailwind CSS` `Framer Motion` |
 | **Key Features** | Project showcase · Contact form · Responsive design |
-| **Highlights** | Clean UI, personal branding, smooth UX |
-
----
-
-### 📋 Smart Attendance Manager
-> *Multi-user attendance tracking system with automated reporting and admin controls.*
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/smart-attendance-manager)
-
-| | |
-|---|---|
-| **Tech Stack** | `React` `CSS` `JavaScript` |
-| **Key Features** | Attendance tracking · Report generation · Multi-user support |
-| **Highlights** | Role-based access, admin dashboard, institutional-scale design |
-
----
-### 🤖 AI Microservices Platform
-> *Production-grade microservices backend with integrated AI components and cloud deployment.*
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/ai-microservices)
-
-| | |
-|---|---|
-| **Tech Stack** | `Spring Boot` `RabbitMQ` `Docker` `Microservices` |
-| **Key Features** | Microservice architecture · RESTful APIs · Horizontal scalability |
-| **Highlights** | Containerized services, cloud-ready infrastructure |
----
-
-### 🧠 AI Plan Generator
-> *Intelligent planning assistant that generates structured, personalized action plans from user input.*
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/AI-PLAN)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/ai-plan-generator)
-
-| | |
-|---|---|
-| **Tech Stack** | `Python` `Flask` `TensorFlow` |
-| **Key Features** | Smart AI-generated plans · User customization · Structured outputs |
-| **Highlights** | Practical ML integration, end-to-end AI pipeline |
+| **Highlights** | Smooth page transitions, personal branding, optimised Lighthouse score |
 
 ---
 
@@ -206,6 +211,7 @@ motto     : "Code is not just about solving problems —
 
 | Area | Status |
 |---|---|
+| 🤖 Agentic AI Systems | `Actively Building` |
 | 🏗️ Production Full-Stack Apps | `In Progress` |
 | 📐 System Design & Architecture | `Active Study` |
 | 🧮 Data Structures & Algorithms | `Daily Practice` |
@@ -217,8 +223,8 @@ motto     : "Code is not just about solving problems —
 
 <div align="center">
 
-> *"Code is not just about solving problems —*  
-> *it's about solving them* **cleanly, efficiently, and at scale.**"
+> *"Good code solves the problem.*  
+> *Great code makes the next problem* **easier to solve.**"
 
 </div>
 
