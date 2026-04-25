@@ -9,16 +9,16 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/deepak-prajapati-caged-coder/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>&nbsp;
 <a href="https://github.com/deepakprajapati8938-del">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillsicons.dev/icons?i=github" height="40" />
 </a>&nbsp;
 <a href="https://www.instagram.com/caged.coder/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://skillsicons.dev/icons?i=instagram" height="40" />
 </a>&nbsp;
 <a href="mailto:deepakprajapati8938@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillsicons.dev/icons?i=gmail" height="40" />
 </a>
 
 <br/><br/>
