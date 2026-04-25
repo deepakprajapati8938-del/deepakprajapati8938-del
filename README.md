@@ -66,22 +66,22 @@ motto     : "Code is not just about solving problems —
 
 | | |
 |---|---|
-| **Tech Stack** | `Python` `Django` `PostgreSQL` |
+| **Tech Stack** | `Python` `Streamlit` `langdetect` `pytest + hypothesis`  |
 | **Key Features** | AI-automated billing · Invoice management · Analytics dashboard |
 | **Highlights** | AI-driven financial automation, enterprise-ready backend |
 
 ---
 
-### 🏦 ALOA — Loan Application Manager
-> *End-to-end loan application management system with real-time status tracking.*
+### 🏦 ALOA — Autonomous Laptop Operating Agent
+> *high-performance, agentic operating system designed to transform your laptop into a proactive, intelligent workspace.*
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/aloa)
 
 | | |
 |---|---|
-| **Tech Stack** | `Java` `Spring Boot` `MySQL` |
-| **Key Features** | Streamlined loan processing · Real-time status tracking · Applicant dashboard |
-| **Highlights** | Robust fintech backend, Spring Boot microservice patterns |
+| **Tech Stack** | `Next.js` `Framer Motion` `FastAPI` `Nvidia CUDA` `Python` `Gemma-4` |
+| **Key Features** | Observe  Orient  Decide  Act |
+| **Highlights** | NetworkX-powered Knowledge Graph to maintain long-term memory. |
 
 ---
 
@@ -92,7 +92,7 @@ motto     : "Code is not just about solving problems —
 
 | | |
 |---|---|
-| **Tech Stack** | `JavaScript` `D3.js` `Node.js` |
+| **Tech Stack** | `React` `TypeScript` |
 | **Key Features** | Contribution visualization · Profile comparison · Activity insights |
 | **Highlights** | Advanced D3.js charts, GitHub API integration |
 
@@ -104,7 +104,7 @@ motto     : "Code is not just about solving problems —
 
 | | |
 |---|---|
-| **Tech Stack** | `Python` `Flask` `OpenCV` |
+| **Tech Stack** | `TypeScript` `React` `TailWind CSS` |
 | **Key Features** | Text-to-handwriting conversion · Customizable styles · Export support |
 | **Highlights** | Computer vision pipeline, creative image processing |
 
@@ -117,7 +117,7 @@ motto     : "Code is not just about solving problems —
 
 | | |
 |---|---|
-| **Tech Stack** | `React` `Bootstrap` `Node.js` |
+| **Tech Stack** | `React` `Tailwind CSS` `Framer Motion` |
 | **Key Features** | Project showcase · Contact form · Responsive design |
 | **Highlights** | Clean UI, personal branding, smooth UX |
 
@@ -130,7 +130,7 @@ motto     : "Code is not just about solving problems —
 
 | | |
 |---|---|
-| **Tech Stack** | `PHP` `MySQL` `JavaScript` |
+| **Tech Stack** | `React` `CSS` `JavaScript` |
 | **Key Features** | Attendance tracking · Report generation · Multi-user support |
 | **Highlights** | Role-based access, admin dashboard, institutional-scale design |
 
