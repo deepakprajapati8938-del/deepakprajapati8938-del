@@ -12,13 +12,13 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>&nbsp;
 <a href="https://github.com/deepakprajapati8938-del">
-  <img src="https://skillsicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>&nbsp;
 <a href="https://www.instagram.com/caged.coder/">
-  <img src="https://skillsicons.dev/icons?i=instagram" height="40" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>&nbsp;
 <a href="mailto:deepakprajapati8938@gmail.com">
-  <img src="https://skillsicons.dev/icons?i=gmail" height="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
 <br/><br/>
