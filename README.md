@@ -191,22 +191,6 @@ motto     : "Good code solves the problem.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=deepakprajapati8938-del&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=deepakprajapati8938-del&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakprajapati8938-del&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 | Area | Status |
