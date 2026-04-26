@@ -54,7 +54,7 @@ motto     : "Good code solves the problem.
 
 | | |
 |---|---|
-| **Tech Stack** | `Python` `Streamlit` `langdetect` `pytest` `hypothesis` |
+| **Tech Stack** | `Next.js 15 (App Router), React 19` `Tailwind CSS v4,` `Framer Motion` `Lucide React` `PostgreSQL, Auth, Real-time` |
 | **Key Features** | AI-automated billing · Multi-language invoice parsing · Analytics dashboard |
 | **Highlights** | Property-based testing with Hypothesis; enterprise-ready financial automation |
 
