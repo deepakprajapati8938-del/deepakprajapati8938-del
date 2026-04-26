@@ -61,7 +61,7 @@ motto     : "Good code solves the problem.
 ### 🤖 ALOA — Autonomous Laptop Operating Agent
 > *A high-performance agentic OS layer that transforms your laptop into a proactive, intelligent workspace.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/aloa)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/ALOA)
 
 | | |
 |---|---|
@@ -74,7 +74,7 @@ motto     : "Good code solves the problem.
 ### 💰 BillBrain AI
 > *AI-driven billing automation platform that simplifies invoice management for businesses.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/billbrain-ai)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/billbrain-ai)
 
 | | |
 |---|---|
@@ -115,7 +115,8 @@ motto     : "Good code solves the problem.
 ### 📊 GitHub Profile Analyzer
 > *Data visualization tool that analyzes and compares GitHub contribution patterns.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/github-profile-analyzer)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/Github_profile_analyzer)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://github-profile-analyzer-psi.vercel.app/)
 
 | | |
 |---|---|
@@ -127,8 +128,8 @@ motto     : "Good code solves the problem.
 
 ### ✍️ Text-To-Handwriting
 > *Creative tool that converts typed text into realistic, customizable handwritten output.*
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/text-to-handwriting)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/Text-To-Handwriting)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://text-to-handwriting-alpha.vercel.app/)
 
 | | |
 |---|---|
@@ -140,8 +141,8 @@ motto     : "Good code solves the problem.
 
 ### 📋 Smart Attendance Manager
 > *Multi-user attendance tracking system with automated reporting and admin controls.*
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/smart-attendance-manager)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/Smart-Attendance-Manager)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://smart-attendance-manager-six.vercel.app/)
 
 | | |
 |---|---|
@@ -168,7 +169,7 @@ motto     : "Good code solves the problem.
 ### 🎨 Portfolio
 > *Personal developer portfolio showcasing projects, skills, and professional experience.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/portfolio)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)]()
 
 | | |
 |---|---|
