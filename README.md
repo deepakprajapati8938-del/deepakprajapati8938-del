@@ -47,6 +47,17 @@ motto     : "Good code solves the problem.
 
 ## 🚀 Projects
 
+### 💰 Placement Hub
+> *premium, high-performance web application designed to streamline the campus placement preparation journey.*
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://placement-zone.netlify.app/)
+
+| | |
+|---|---|
+| **Tech Stack** | `Python` `Streamlit` `langdetect` `pytest` `hypothesis` |
+| **Key Features** | AI-automated billing · Multi-language invoice parsing · Analytics dashboard |
+| **Highlights** | Property-based testing with Hypothesis; enterprise-ready financial automation |
+
 ### 🤖 ALOA — Autonomous Laptop Operating Agent
 > *A high-performance agentic OS layer that transforms your laptop into a proactive, intelligent workspace.*
 
