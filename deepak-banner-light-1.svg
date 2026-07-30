@@ -1,0 +1,39 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eef2ff"/>
+      <stop offset="45%" stop-color="#e0e7ff"/>
+      <stop offset="100%" stop-color="#ede9fe"/>
+    </linearGradient>
+    <linearGradient id="nameGradL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+      <animate attributeName="x1" values="-20%;120%;-20%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="80%;220%;80%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glowL" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bgGradL)"/>
+  <circle cx="170" cy="65" r="140" fill="url(#glowL)"/>
+  <circle cx="1040" cy="215" r="160" fill="url(#glowL)"/>
+
+  <circle cx="90" cy="40" r="3" fill="#2563eb"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="1120" cy="60" r="2.5" fill="#7c3aed"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="235" r="2" fill="#4c1d95"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="1080" cy="180" r="3" fill="#2563eb"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/></circle>
+  <circle cx="60" cy="150" r="2" fill="#7c3aed"><animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
+
+  <text x="70" y="150" font-family="Consolas, monospace" font-size="80" fill="#000000" opacity="0.05" font-weight="700">&lt;/&gt;</text>
+  <text x="985" y="250" font-family="Consolas, monospace" font-size="60" fill="#000000" opacity="0.05" font-weight="700">{ }</text>
+
+  <text x="600" y="128" font-family="'Segoe UI', Verdana, sans-serif" font-size="56" font-weight="800" fill="url(#nameGradL)" text-anchor="middle">Deepak Prajapati</text>
+  <text x="600" y="172" font-family="Consolas, monospace" font-size="18" fill="#4338ca" text-anchor="middle" opacity="0.95">Full Stack Developer • GenAI Developer • Open Source Contributor</text>
+
+  <path d="M0,230 C200,270 350,200 600,225 C850,250 1000,190 1200,225 L1200,280 L0,280 Z" fill="#4338ca" opacity="0.05"/>
+  <path d="M0,245 C220,285 380,215 600,240 C820,265 980,205 1200,240 L1200,280 L0,280 Z" fill="#4338ca" opacity="0.08"/>
+</svg>
