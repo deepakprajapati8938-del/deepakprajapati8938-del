@@ -1,67 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Deepak%20Prajapati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=16" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./deepak-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./deepak-banner-light.svg">
+  <img src="./deepak-banner-dark.svg" alt="Deepak Prajapati — Full Stack & GenAI Developer" width="100%"/>
+</picture>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7EB8F7&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Integrating+AI+into+real-world+products;Microservices+%7C+Clean+Architecture+%7C+DevOps;Always+shipping%2C+always+learning" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/deepak-prajapati-caged-coder/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>&nbsp;
-<a href="https://github.com/deepakprajapati8938-del">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>&nbsp;
-<a href="https://www.instagram.com/caged.coder/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>&nbsp;
-<a href="mailto:deepakprajapati8938@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=deepakprajapati8938-del&style=flat-square&color=7EB8F7&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7EB8F7&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Shipping+production-ready+GenAI+%26+agentic+systems;Microservices+%7C+Clean+Architecture+%7C+DevOps;Always+shipping%2C+always+learning" alt="Typing SVG"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<table align="center" border="0">
+<tr>
+<td width="36%" align="center" valign="middle">
+
+<img src="./deepak-id-card.svg" alt="Deepak Prajapati ID badge" width="300"/>
+
+</td>
+<td width="64%" valign="middle">
+
+### 👨‍💻 About Me
 
 ```yaml
 name      : Deepak Prajapati
 alias     : caged.coder
-role      : Full Stack Developer & ML Enthusiast
-status    : Final Year B.Tech Student · Open to Internships & Collaborations
-focus     : Scalable Systems · AI Integration · Microservices · Clean Architecture
+role      : Full Stack Developer & GenAI Developer
+status    : Final Year B.Tech Student · Open to SDE / GenAI Roles
+focus     : Scalable Systems · GenAI & Agentic Systems · Microservices · Clean Architecture
 learning  : System Design · Advanced Backend Engineering · DSA
-open_to   : Internships · Open Source · Freelance · Full-Time Roles (2025)
+open_to   : Full-Time Roles · SDE / GenAI Internships · Open Source Collaborations
 motto     : "Good code solves the problem.
              Great code makes the next problem easier to solve."
 ```
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 Projects
+<br/>
+
+## 🚀 Featured Projects
 
 ### 💰 Placement Hub
-> *premium, high-performance web application designed to streamline the campus placement preparation journey.*
+> *Premium, high-performance web application designed to streamline the campus placement preparation journey.*
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://placement-zone.netlify.app/)
 
 | | |
 |---|---|
-| **Tech Stack** | `Next.js 15 (App Router), React 19` `Tailwind CSS v4,` `Framer Motion` `Lucide React` `PostgreSQL, Auth, Real-time` |
-| **Key Features** | AI-automated billing · Multi-language invoice parsing · Analytics dashboard |
-| **Highlights** | Property-based testing with Hypothesis; enterprise-ready financial automation |
+| **Tech Stack** | `Next.js 15` `React 19` `Tailwind CSS v4` `Framer Motion` `Lucide React` `PostgreSQL` `Auth` `Real-time` |
+| **Key Features** | Personalized placement-prep dashboard · Company & role tracking · Real-time updates |
+| **Highlights** | Auth-secured PostgreSQL backend; real-time sync built for a smooth prep workflow |
 
 ### 🤖 ALOA — Autonomous Laptop Operating Agent
 > *A high-performance agentic OS layer that transforms your laptop into a proactive, intelligent workspace.*
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/ALOA)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/ALOA) ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/ALOA?style=social)
 
 | | |
 |---|---|
@@ -69,12 +67,10 @@ motto     : "Good code solves the problem.
 | **Key Features** | Observe → Orient → Decide → Act agentic loop |
 | **Highlights** | NetworkX-powered Knowledge Graph for long-term memory; GPU-accelerated inference |
 
----
-
 ### 💰 BillBrain AI
 > *AI-driven billing automation platform that simplifies invoice management for businesses.*
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/billbrain-ai)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/billbrain-ai) ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/billbrain-ai?style=social)
 
 | | |
 |---|---|
@@ -82,13 +78,10 @@ motto     : "Good code solves the problem.
 | **Key Features** | AI-automated billing · Multi-language invoice parsing · Analytics dashboard |
 | **Highlights** | Property-based testing with Hypothesis; enterprise-ready financial automation |
 
----
-
 ### 🌐 Internship Portal System
 > *A complete full-stack platform to streamline internship workflows end-to-end.*
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/Internship-Portal)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/internship-portal)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/Internship-Portal) [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/internship-portal) ![Stars](https://img.shields.io/github/stars/Deepak12159/Internship-Portal?style=social)
 
 | | |
 |---|---|
@@ -96,88 +89,20 @@ motto     : "Good code solves the problem.
 | **Key Features** | User registration · Job postings · Resume uploads · Application tracking |
 | **Highlights** | JWT auth, role-based access control (student / company / admin), real-world workflow design |
 
----
+<br/>
 
-### 🏗️ AI Microservices Platform
-> *Production-grade microservices backend with integrated AI components and cloud-ready deployment.*
+## 📂 More Projects
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/ai-microservices)
+| Project | Tech | Live | ⭐ |
+|:---|:---:|:---:|:---:|
+| [🏗️ AI Microservices Platform](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main) | `Spring Boot` `RabbitMQ` `Docker` | [Demo](https://example.com/ai-microservices) | ![Stars](https://img.shields.io/github/stars/Deepak12159/SpringBoot-AI-Microservices-main?style=social) |
+| [📊 GitHub Profile Analyzer](https://github.com/deepakprajapati8938-del/Github_profile_analyzer) | `React` `TypeScript` `D3.js` | [Demo](https://github-profile-analyzer-psi.vercel.app/) | ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Github_profile_analyzer?style=social) |
+| [✍️ Text-To-Handwriting](https://github.com/deepakprajapati8938-del/Text-To-Handwriting) | `TypeScript` `React` `Tailwind` | [Demo](https://text-to-handwriting-alpha.vercel.app/) | ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Text-To-Handwriting?style=social) |
+| [📋 Smart Attendance Manager](https://github.com/deepakprajapati8938-del/Smart-Attendance-Manager) | `React` `JavaScript` `CSS` | [Demo](https://smart-attendance-manager-six.vercel.app/) | ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Smart-Attendance-Manager?style=social) |
+| [🧠 AI Plan Generator](https://github.com/Deepak12159/AI-PLAN) | `Python` `Flask` `TensorFlow` | [Demo](https://example.com/ai-plan-generator) | ![Stars](https://img.shields.io/github/stars/Deepak12159/AI-PLAN?style=social) |
+| 🎨 Portfolio | `React` `Tailwind` `Framer Motion` | — | — |
 
-| | |
-|---|---|
-| **Tech Stack** | `Spring Boot` `RabbitMQ` `Docker` `REST APIs` |
-| **Key Features** | Decoupled microservice architecture · Async messaging · Horizontal scalability |
-| **Highlights** | Containerised with Docker; event-driven communication via RabbitMQ |
-
----
-
-### 📊 GitHub Profile Analyzer
-> *Data visualization tool that analyzes and compares GitHub contribution patterns.*
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/Github_profile_analyzer)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://github-profile-analyzer-psi.vercel.app/)
-
-| | |
-|---|---|
-| **Tech Stack** | `React` `TypeScript` `D3.js` `GitHub API` |
-| **Key Features** | Contribution heatmaps · Side-by-side profile comparison · Activity insights |
-| **Highlights** | Advanced D3.js visualizations; real-time GitHub API integration |
-
----
-
-### ✍️ Text-To-Handwriting
-> *Creative tool that converts typed text into realistic, customizable handwritten output.*
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/Text-To-Handwriting)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://text-to-handwriting-alpha.vercel.app/)
-
-| | |
-|---|---|
-| **Tech Stack** | `TypeScript` `React` `Tailwind CSS` |
-| **Key Features** | Text-to-handwriting conversion · Style customization · PNG/PDF export |
-| **Highlights** | Canvas-based rendering pipeline; multiple handwriting style presets |
-
----
-
-### 📋 Smart Attendance Manager
-> *Multi-user attendance tracking system with automated reporting and admin controls.*
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/Smart-Attendance-Manager)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://smart-attendance-manager-six.vercel.app/)
-
-| | |
-|---|---|
-| **Tech Stack** | `React` `JavaScript` `CSS` |
-| **Key Features** | Attendance tracking · Report generation · Multi-user support |
-| **Highlights** | Role-based access; admin dashboard designed for institutional scale |
-
----
-
-### 🧠 AI Plan Generator
-> *Intelligent planning assistant that generates structured, personalized action plans from natural language input.*
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/AI-PLAN)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/ai-plan-generator)
-
-| | |
-|---|---|
-| **Tech Stack** | `Python` `Flask` `TensorFlow` |
-| **Key Features** | Context-aware plan generation · User customization · Structured outputs |
-| **Highlights** | End-to-end ML pipeline; practical AI applied to productivity |
-
----
-
-### 🎨 Portfolio
-> *Personal developer portfolio showcasing projects, skills, and professional experience.*
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)]()
-
-| | |
-|---|---|
-| **Tech Stack** | `React` `Tailwind CSS` `Framer Motion` |
-| **Key Features** | Project showcase · Contact form · Responsive design |
-| **Highlights** | Smooth page transitions, personal branding, optimised Lighthouse score |
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -213,18 +138,52 @@ motto     : "Good code solves the problem.
 | 🧮 Data Structures & Algorithms | `Daily Practice` |
 | 🌍 Open Source Contributions | `Ongoing` |
 
----
-
-## 💡 Dev Philosophy
+<br/>
 
 <div align="center">
 
-> *"Good code solves the problem.*  
+### 📊 GitHub Stats & Graphs
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepakprajapati8938-del&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=7EB8F7&icon_color=a78bfa&text_color=c7d2fe" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakprajapati8938-del&layout=compact&hide_border=true&bg_color=0f0c29&title_color=7EB8F7&text_color=c7d2fe" height="185"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=deepakprajapati8938-del&hide_border=true&background=0f0c29&ring=7EB8F7&fire=a78bfa&currStreakLabel=7EB8F7&sideNums=c7d2fe&currStreakNum=ffffff&sideLabels=c7d2fe" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakprajapati8938-del&bg_color=0f0c29&color=7EB8F7&line=a78bfa&point=c7d2fe&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Graph%20⚡" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepakprajapati8938-del&theme=algolia&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Watch the snake eat my contributions
+
+<img src="https://raw.githubusercontent.com/deepakprajapati8938-del/deepakprajapati8938-del/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/deepak-prajapati-caged-coder/"><img src="https://img.shields.io/badge/LinkedIn-7EB8F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/deepakprajapati8938-del"><img src="https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/caged.coder/"><img src="https://img.shields.io/badge/Instagram-a78bfa?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:deepakprajapati8938@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=deepakprajapati8938-del&color=7EB8F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+> *"Good code solves the problem.*
 > *Great code makes the next problem* **easier to solve.**"
 
 </div>
-
----
 
 <div align="center">
 
