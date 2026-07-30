@@ -70,7 +70,7 @@ motto     : "Good code solves the problem.
 ### 💰 BillBrain AI
 > *AI-driven billing automation platform that simplifies invoice management for businesses.*
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/billbrain-ai) ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/billbrain-ai?style=social)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/billbrain-ai)
 
 | | |
 |---|---|
@@ -81,7 +81,7 @@ motto     : "Good code solves the problem.
 ### 🌐 Internship Portal System
 > *A complete full-stack platform to streamline internship workflows end-to-end.*
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/Internship-Portal) [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://example.com/internship-portal) ![Stars](https://img.shields.io/github/stars/Deepak12159/Internship-Portal?style=social)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/Internship-Portal)
 
 | | |
 |---|---|
@@ -89,17 +89,19 @@ motto     : "Good code solves the problem.
 | **Key Features** | User registration · Job postings · Resume uploads · Application tracking |
 | **Highlights** | JWT auth, role-based access control (student / company / admin), real-world workflow design |
 
+> ⚠️ **Note for you (remove this line once fixed):** the "Live Demo" and "Stars" badges for this project were removed because the repo/link didn't resolve. Double check the actual repo URL (`Deepak12159/Internship-Portal` — is it renamed, private, or under a different account?) and I'll add the badges back once confirmed.
+
 <br/>
 
 ## 📂 More Projects
 
-| Project | Tech | Live | ⭐ |
+| Project | Tech | Source | ⭐ |
 |:---|:---:|:---:|:---:|
-| [🏗️ AI Microservices Platform](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main) | `Spring Boot` `RabbitMQ` `Docker` | [Demo](https://example.com/ai-microservices) | ![Stars](https://img.shields.io/github/stars/Deepak12159/SpringBoot-AI-Microservices-main?style=social) |
+| [🏗️ AI Microservices Platform](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main) | `Spring Boot` `RabbitMQ` `Docker` | [Repo](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main) | ![Stars](https://img.shields.io/github/stars/Deepak12159/SpringBoot-AI-Microservices-main?style=social) |
 | [📊 GitHub Profile Analyzer](https://github.com/deepakprajapati8938-del/Github_profile_analyzer) | `React` `TypeScript` `D3.js` | [Demo](https://github-profile-analyzer-psi.vercel.app/) | ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Github_profile_analyzer?style=social) |
 | [✍️ Text-To-Handwriting](https://github.com/deepakprajapati8938-del/Text-To-Handwriting) | `TypeScript` `React` `Tailwind` | [Demo](https://text-to-handwriting-alpha.vercel.app/) | ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Text-To-Handwriting?style=social) |
 | [📋 Smart Attendance Manager](https://github.com/deepakprajapati8938-del/Smart-Attendance-Manager) | `React` `JavaScript` `CSS` | [Demo](https://smart-attendance-manager-six.vercel.app/) | ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Smart-Attendance-Manager?style=social) |
-| [🧠 AI Plan Generator](https://github.com/Deepak12159/AI-PLAN) | `Python` `Flask` `TensorFlow` | [Demo](https://example.com/ai-plan-generator) | ![Stars](https://img.shields.io/github/stars/Deepak12159/AI-PLAN?style=social) |
+| [🧠 AI Plan Generator](https://github.com/Deepak12159/AI-PLAN) | `Python` `Flask` `TensorFlow` | [Repo](https://github.com/Deepak12159/AI-PLAN) | ![Stars](https://img.shields.io/github/stars/Deepak12159/AI-PLAN?style=social) |
 | 🎨 Portfolio | `React` `Tailwind` `Framer Motion` | — | — |
 
 <br/>
@@ -144,12 +146,12 @@ motto     : "Good code solves the problem.
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepakprajapati8938-del&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=7EB8F7&icon_color=a78bfa&text_color=c7d2fe" height="185"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakprajapati8938-del&layout=compact&hide_border=true&bg_color=0f0c29&title_color=7EB8F7&text_color=c7d2fe" height="185"/>
+<img src="./profile/stats.svg" height="185"/>
+<img src="./profile/top-langs.svg" height="185"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=deepakprajapati8938-del&hide_border=true&background=0f0c29&ring=7EB8F7&fire=a78bfa&currStreakLabel=7EB8F7&sideNums=c7d2fe&currStreakNum=ffffff&sideLabels=c7d2fe" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak"/></a>
 
 <br/><br/>
 
