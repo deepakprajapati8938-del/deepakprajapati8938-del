@@ -1,0 +1,101 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e1a"/>
+      <stop offset="50%" stop-color="#12152b"/>
+      <stop offset="100%" stop-color="#1a1035"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9CDCFE"/>
+      <stop offset="50%" stop-color="#c9a7ff"/>
+      <stop offset="100%" stop-color="#9CDCFE"/>
+      <animate attributeName="x1" values="-20%;120%;-20%" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="80%;220%;80%" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dotGrid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#ffffff" opacity="0.05"/>
+    </pattern>
+    <linearGradient id="termBorder" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <clipPath id="termClip">
+      <rect x="140" y="35" width="920" height="212" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="280" fill="url(#bgGrad)"/>
+  <rect width="1200" height="280" fill="url(#dotGrid)"/>
+  <circle cx="140" cy="50" r="170" fill="url(#glowBlue)"/>
+  <circle cx="1080" cy="235" r="190" fill="url(#glowViolet)"/>
+
+  <!-- faint code watermarks, tucked into corners away from the terminal -->
+  <text x="18" y="270" font-family="Consolas, 'Fira Code', monospace" font-size="46" fill="#ffffff" opacity="0.045" font-weight="700">&lt;/&gt;</text>
+  <text x="1122" y="45" font-family="Consolas, 'Fira Code', monospace" font-size="36" fill="#ffffff" opacity="0.045" font-weight="700">{ }</text>
+
+  <!-- ambient particles -->
+  <circle cx="70" cy="150" r="2" fill="#7EB8F7"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="1145" cy="150" r="2" fill="#a78bfa"><animate attributeName="opacity" values="1;0.3;1" dur="3.6s" repeatCount="indefinite"/></circle>
+  <circle cx="95" cy="230" r="1.6" fill="#c7d2fe"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1160" cy="55" r="1.6" fill="#7EB8F7"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.2s" repeatCount="indefinite"/></circle>
+
+  <!-- ===== terminal window (signature element) ===== -->
+  <g>
+    <rect x="140" y="35" width="920" height="212" rx="14" fill="#14141f" stroke="url(#termBorder)" stroke-width="1"/>
+    <rect x="140" y="35" width="920" height="212" rx="14" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+
+    <g clip-path="url(#termClip)">
+      <!-- header bar -->
+      <rect x="140" y="35" width="920" height="34" fill="#1c1c2b"/>
+      <line x1="140" y1="69" x2="1060" y2="69" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+
+      <!-- traffic lights -->
+      <circle cx="163" cy="52" r="6" fill="#FF5F56"/>
+      <circle cx="184" cy="52" r="6" fill="#FFBD2E"/>
+      <circle cx="205" cy="52" r="6" fill="#27C93F"/>
+
+      <!-- tab -->
+      <text x="230" y="57" font-family="Consolas, 'Fira Code', monospace" font-size="13" fill="#8b93b0">deepak<tspan fill="#4fa3ff">.ts</tspan></text>
+
+      <!-- footer status bar -->
+      <rect x="140" y="219" width="920" height="28" fill="#1c1c2b"/>
+      <line x1="140" y1="219" x2="1060" y2="219" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+      <circle cx="163" cy="233" r="4" fill="#27C93F"/>
+      <text x="176" y="237" font-family="Consolas, 'Fira Code', monospace" font-size="12" fill="#8b93b0">main</text>
+      <text x="1040" y="237" text-anchor="end" font-family="Consolas, 'Fira Code', monospace" font-size="12" fill="#5b6280">TypeScript · UTF-8</text>
+    </g>
+
+    <!-- line numbers -->
+    <text x="178" y="113" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#454c66">1</text>
+    <text x="178" y="163" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#454c66">2</text>
+    <text x="178" y="207" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#454c66">3</text>
+    <line x1="192" y1="76" x2="192" y2="219" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+
+    <!-- line 1: prompt -->
+    <text x="205" y="113" font-family="Consolas, 'Fira Code', monospace" font-size="17">
+      <tspan fill="#9CDCFE">guest</tspan><tspan fill="#7d8394">@</tspan><tspan fill="#9CDCFE">deepak</tspan><tspan fill="#7d8394">:~$ </tspan><tspan fill="#DCDCAA" font-weight="600">whoami</tspan>
+    </text>
+
+    <!-- line 2: name (output) -->
+    <text x="205" y="163" font-family="Consolas, 'Fira Code', monospace" font-size="34" font-weight="800">
+      <tspan fill="#565f89" font-size="22">&gt; </tspan><tspan fill="url(#nameGrad)">Deepak Prajapati</tspan>
+    </text>
+
+    <!-- line 3: role comment -->
+    <text x="205" y="207" font-family="Consolas, 'Fira Code', monospace" font-size="15" font-style="italic" fill="#6A9955">
+      // Full Stack Developer · GenAI Developer · Open Source Contributor
+    </text>
+    <rect x="819" y="194" width="9" height="16" fill="#fbbf24">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
