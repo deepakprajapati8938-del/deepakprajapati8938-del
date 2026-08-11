@@ -45,64 +45,95 @@ motto     : "Good code solves the problem.
 
 ## 🚀 Featured Projects
 
-### 💰 Placement Hub
-> *Premium, high-performance web application designed to streamline the campus placement preparation journey.*
+### 🖥️ DeepakOS — Personal Developer Portfolio
+> *My personal, interactive developer portfolio — a dynamic space built to showcase my projects, skills, and journey.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C896?style=flat-square&logo=vercel&logoColor=white)](https://placement-zone.netlify.app/)
+🔗 *Repo link coming soon*
 
 | | |
 |---|---|
-| **Tech Stack** | `Next.js 15` `React 19` `Tailwind CSS v4` `Framer Motion` `Lucide React` `PostgreSQL` `Auth` `Real-time` |
-| **Key Features** | Personalized placement-prep dashboard · Company & role tracking · Real-time updates |
-| **Highlights** | Auth-secured PostgreSQL backend; real-time sync built for a smooth prep workflow |
+| **Tech Stack** | `React` `Tailwind CSS` `Framer Motion` |
+| **Highlights** | Fully custom, animated, responsive portfolio experience designed and built end-to-end |
 
 ### 🤖 ALOA — Autonomous Laptop Operating Agent
-> *A high-performance agentic OS layer that transforms your laptop into a proactive, intelligent workspace.*
+> *An agentic OS-layer assistant that automates system tasks, provides screen intelligence, and orchestrates multi-agent toolchains.*
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/ALOA) ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/ALOA?style=social)
 
 | | |
 |---|---|
-| **Tech Stack** | `Next.js` `FastAPI` `Python` `Framer Motion` `Nvidia CUDA` `Gemma-4` |
-| **Key Features** | Observe → Orient → Decide → Act agentic loop |
-| **Highlights** | NetworkX-powered Knowledge Graph for long-term memory; GPU-accelerated inference |
+| **Tech Stack** | `Next.js` `FastAPI` `Python` `llama.cpp / Gemma` `NetworkX` `Tesseract OCR` |
+| **Key Features** | App Manager · System Doctor · Code Healer (self-debugging loop) · Cloud Healer · Auto Deployer · Resume Engine |
+| **Highlights** | OODA-loop agent architecture · NetworkX knowledge graph for long-term memory · LLM fallback chain (Groq → Gemini → local Gemma) |
 
-### 💰 BillBrain AI
-> *AI-driven billing automation platform that simplifies invoice management for businesses.*
+### 🎓 Jules — NEET Prep PWA (RAG Study Companion)
+> *A progressive web app for NEET aspirants with an NCERT-grounded RAG chatbot, AI study companion, test generation, and reflective journaling.*
+
+🔗 *Repo link coming soon*
+
+| | |
+|---|---|
+| **Tech Stack** | `React` `TypeScript` `Vite` `FastAPI` `Supabase (pgvector)` `Gemini API` |
+| **Key Features** | RAG chatbot grounded on NCERT content · AI-generated practice tests · Reflective journaling with AI feedback · Progress tracking |
+| **Highlights** | Full retrieval pipeline — embed query → similarity search → prompt construction → LLM response |
+
+### 🗣️ Sql Whisper — Conversational SQL Assistant
+> *Converts natural-language questions into accurate SQL, auto-detects schema, self-corrects failed queries, and returns human-readable answers.*
+
+🔗 *Repo link coming soon*
+
+| | |
+|---|---|
+| **Tech Stack** | `FastAPI` `Python` `Streamlit` `Groq / Llama 3` `PostgreSQL` |
+| **Key Features** | Automatic schema discovery · NL → SQL generation with context · Sandboxed, read-only query execution · Error-aware self-correction loop |
+| **Highlights** | Retry loop that analyzes DB errors and automatically regenerates corrected SQL |
+
+### 🧾 BillBrain AI — Smart Invoice Processor
+> *AI-driven billing automation platform that extracts structured data from invoices and simplifies management for businesses.*
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/billbrain-ai)
 
 | | |
 |---|---|
-| **Tech Stack** | `Python` `Streamlit` `langdetect` `pytest` `hypothesis` |
-| **Key Features** | AI-automated billing · Multi-language invoice parsing · Analytics dashboard |
-| **Highlights** | Property-based testing with Hypothesis; enterprise-ready financial automation |
+| **Tech Stack** | `Python` `Streamlit` `Gemini` `pytest` `hypothesis` |
+| **Key Features** | Batch invoice upload · Per-field confidence scoring · Multi-language parsing · Duplicate detection · Spend analytics dashboard |
+| **Highlights** | Property-based testing with Hypothesis for core invariants; enterprise-ready financial automation |
 
-### 🌐 Internship Portal System
-> *A complete full-stack platform to streamline internship workflows end-to-end.*
+### 🎲 Truth Roulette — Real-time Truth/Dare Party Game
+> *A real-time multiplayer party game with a premium casino UI, Hinglish AI-generated content, and resilient reconnect/resume logic.*
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deepak12159/Internship-Portal)
+🔗 *Repo link coming soon*
 
 | | |
 |---|---|
-| **Tech Stack** | `React` `Redux` `Tailwind CSS` `Node.js` `Express` `MongoDB` |
-| **Key Features** | User registration · Job postings · Resume uploads · Application tracking |
-| **Highlights** | JWT auth, role-based access control (student / company / admin), real-world workflow design |
+| **Tech Stack** | `React` `Vite` `Framer Motion` `Node.js` `Express` `Socket.io` `Groq / Llama 3.1` |
+| **Key Features** | Real-time multiplayer rooms · Hinglish AI-generated truths & dares (gender-aware) · 45s reconnect grace window · Mobile-optimized UI |
+| **Highlights** | Server-side seat-holding and instant-resume logic built for flaky mobile networks |
 
-> ⚠️ **Note for you (remove this line once fixed):** the "Live Demo" and "Stars" badges for this project were removed because the repo/link didn't resolve. Double check the actual repo URL (`Deepak12159/Internship-Portal` — is it renamed, private, or under a different account?) and I'll add the badges back once confirmed.
+### 🎯 Placement Hub — Campus Placement Prep Platform
+> *A polished web app for students to track placement prep — personalized dashboards, company tracking, and real-time leaderboards.*
+
+🔗 *Repo link coming soon*
+
+| | |
+|---|---|
+| **Tech Stack** | `Next.js 15` `React 19` `Tailwind CSS v4` `Framer Motion` `Supabase (Postgres + Auth + Realtime)` |
+| **Key Features** | Personalized placement roadmap · Real-time XP leaderboard · Role-based admin suite · Resource repository |
+| **Highlights** | Materialized Postgres views powering real-time leaderboard performance |
 
 <br/>
 
 ## 📂 More Projects
 
-| Project | Tech | Source | ⭐ |
-|:---|:---:|:---:|:---:|
-| [🏗️ AI Microservices Platform](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main) | `Spring Boot` `RabbitMQ` `Docker` | [Repo](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main) | ![Stars](https://img.shields.io/github/stars/Deepak12159/SpringBoot-AI-Microservices-main?style=social) |
-| [📊 GitHub Profile Analyzer](https://github.com/deepakprajapati8938-del/Github_profile_analyzer) | `React` `TypeScript` `D3.js` | [Demo](https://github-profile-analyzer-psi.vercel.app/) | ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Github_profile_analyzer?style=social) |
-| [✍️ Text-To-Handwriting](https://github.com/deepakprajapati8938-del/Text-To-Handwriting) | `TypeScript` `React` `Tailwind` | [Demo](https://text-to-handwriting-alpha.vercel.app/) | ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Text-To-Handwriting?style=social) |
-| [📋 Smart Attendance Manager](https://github.com/deepakprajapati8938-del/Smart-Attendance-Manager) | `React` `JavaScript` `CSS` | [Demo](https://smart-attendance-manager-six.vercel.app/) | ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Smart-Attendance-Manager?style=social) |
-| [🧠 AI Plan Generator](https://github.com/Deepak12159/AI-PLAN) | `Python` `Flask` `TensorFlow` | [Repo](https://github.com/Deepak12159/AI-PLAN) | ![Stars](https://img.shields.io/github/stars/Deepak12159/AI-PLAN?style=social) |
-| 🎨 Portfolio | `React` `Tailwind` `Framer Motion` | — | — |
+| Project | Tech | Repo |
+|:---|:---:|:---:|
+| 🌐 Internship Portal System | `React` `Redux` `Node.js` `Express` `MongoDB` | [Repo](https://github.com/Deepak12159/Internship-Portal) |
+| 🐳 FlyRank Backend | `Node.js` `Express` `PostgreSQL` `Redis` `Docker` | 🔗 *link coming soon* |
+| 🏗️ AI Microservices Platform | `Spring Boot` `RabbitMQ` `Docker` | [Repo](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main) ![Stars](https://img.shields.io/github/stars/Deepak12159/SpringBoot-AI-Microservices-main?style=social) |
+| 📊 GitHub Profile Analyzer | `React` `TypeScript` `D3.js` | [Repo](https://github.com/deepakprajapati8938-del/Github_profile_analyzer) ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Github_profile_analyzer?style=social) |
+| ✍️ Text-To-Handwriting | `TypeScript` `React` `Tailwind` | [Repo](https://github.com/deepakprajapati8938-del/Text-To-Handwriting) ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Text-To-Handwriting?style=social) |
+| 📋 Smart Attendance Manager | `React` `JavaScript` `CSS` | [Repo](https://github.com/deepakprajapati8938-del/Smart-Attendance-Manager) ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Smart-Attendance-Manager?style=social) |
+| 🧠 AI Plan Generator | `Python` `Flask` `TensorFlow` | [Repo](https://github.com/Deepak12159/AI-PLAN) ![Stars](https://img.shields.io/github/stars/Deepak12159/AI-PLAN?style=social) |
 
 <br/>
 
