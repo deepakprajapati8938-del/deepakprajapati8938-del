@@ -49,8 +49,7 @@ motto     : "Good code solves the problem.
 > *My personal, interactive developer portfolio — a dynamic space built to showcase my projects, skills, and journey.*
 
 🔗 *Repo link* https://github.com/deepakprajapati8938-del/Deepak-s-MacOS-Portfolio
-*
-🛫 Live Preview* https://deepak-macos-portfolio.vercel.app/
+<br>🛫 *Live Preview* https://deepak-macos-portfolio.vercel.app/
 
 | | |
 |---|---|
