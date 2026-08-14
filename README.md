@@ -58,7 +58,7 @@ motto     : "Good code solves the problem.
 ### 🤖 ALOA — Autonomous Laptop Operating Agent
 > *An agentic OS-layer assistant that automates system tasks, provides screen intelligence, and orchestrates multi-agent toolchains.*
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/ALOA) ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/ALOA?style=social)
+🔗 *Repo link* https://github.com/deepakprajapati8938-del/ALOA
 
 | | |
 |---|---|
@@ -69,7 +69,7 @@ motto     : "Good code solves the problem.
 ### 🎓 Jules — NEET Prep PWA (RAG Study Companion)
 > *A progressive web app for NEET aspirants with an NCERT-grounded RAG chatbot, AI study companion, test generation, and reflective journaling.*
 
-🔗 *Repo link coming soon*
+🔗 *Repo link* https://github.com/deepakprajapati8938-del/Jules
 
 | | |
 |---|---|
@@ -80,7 +80,7 @@ motto     : "Good code solves the problem.
 ### 🗣️ Sql Whisper — Conversational SQL Assistant
 > *Converts natural-language questions into accurate SQL, auto-detects schema, self-corrects failed queries, and returns human-readable answers.*
 
-🔗 *Repo link coming soon*
+🔗 *Repo link* https://github.com/deepakprajapati8938-del/Sql-Whisper
 
 | | |
 |---|---|
@@ -91,7 +91,7 @@ motto     : "Good code solves the problem.
 ### 🧾 BillBrain AI — Smart Invoice Processor
 > *AI-driven billing automation platform that extracts structured data from invoices and simplifies management for businesses.*
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakprajapati8938-del/billbrain-ai)
+🔗 *Repo link* https://github.com/deepakprajapati8938-del/billbrain-ai
 
 | | |
 |---|---|
@@ -102,7 +102,7 @@ motto     : "Good code solves the problem.
 ### 🎲 Truth Roulette — Real-time Truth/Dare Party Game
 > *A real-time multiplayer party game with a premium casino UI, Hinglish AI-generated content, and resilient reconnect/resume logic.*
 
-🔗 *Repo link coming soon*
+🔗 *Repo link* https://github.com/deepakprajapati8938-del/TRUTH-ROULETTE
 
 | | |
 |---|---|
@@ -113,7 +113,7 @@ motto     : "Good code solves the problem.
 ### 🎯 Placement Hub — Campus Placement Prep Platform
 > *A polished web app for students to track placement prep — personalized dashboards, company tracking, and real-time leaderboards.*
 
-🔗 *Repo link coming soon*
+🔗 *Repo link* https://github.com/deepakprajapati8938-del/Placement-Hub
 
 | | |
 |---|---|
@@ -128,7 +128,7 @@ motto     : "Good code solves the problem.
 | Project | Tech | Repo |
 |:---|:---:|:---:|
 | 🌐 Internship Portal System | `React` `Redux` `Node.js` `Express` `MongoDB` | [Repo](https://github.com/Deepak12159/Internship-Portal) |
-| 🐳 FlyRank Backend | `Node.js` `Express` `PostgreSQL` `Redis` `Docker` | 🔗 *link coming soon* |
+| 🐳 FlyRank Backend | `Node.js` `Express` `PostgreSQL` `Redis` `Docker` | [Repo](https://github.com/deepakprajapati8938-del/FlyRank-Backend-API) |
 | 🏗️ AI Microservices Platform | `Spring Boot` `RabbitMQ` `Docker` | [Repo](https://github.com/Deepak12159/SpringBoot-AI-Microservices-main) ![Stars](https://img.shields.io/github/stars/Deepak12159/SpringBoot-AI-Microservices-main?style=social) |
 | 📊 GitHub Profile Analyzer | `React` `TypeScript` `D3.js` | [Repo](https://github.com/deepakprajapati8938-del/Github_profile_analyzer) ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Github_profile_analyzer?style=social) |
 | ✍️ Text-To-Handwriting | `TypeScript` `React` `Tailwind` | [Repo](https://github.com/deepakprajapati8938-del/Text-To-Handwriting) ![Stars](https://img.shields.io/github/stars/deepakprajapati8938-del/Text-To-Handwriting?style=social) |
