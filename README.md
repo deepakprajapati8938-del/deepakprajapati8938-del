@@ -50,6 +50,8 @@ motto     : "Good code solves the problem.
 
 🔗 *Repo link* https://github.com/deepakprajapati8938-del/Deepak-s-MacOS-Portfolio
 
+🛫 *Live Preview* https://deepak-macos-portfolio.vercel.app/
+
 | | |
 |---|---|
 | **Tech Stack** | `React` `Tailwind CSS` `Framer Motion` |
