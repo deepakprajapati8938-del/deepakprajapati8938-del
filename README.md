@@ -1,7 +1,11 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Deepak%20Prajapati&fontColor=7EB8F7&fontSize=52&fontAlignY=38&desc=Full%20Stack%20%26%20GenAI%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./deepak-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./deepak-banner-light.svg">
+  <img src="./deepak-banner-dark.svg" alt="Deepak Prajapati — Full Stack & GenAI Developer" width="100%"/>
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7EB8F7&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Shipping+production-ready+GenAI+%26+agentic+systems;Microservices+%7C+Clean+Architecture+%7C+DevOps;Always+shipping%2C+always+learning" alt="Typing SVG"/>
 
@@ -9,7 +13,6 @@
 
 <img src="https://img.shields.io/badge/🟢_Open_to_Work-SDE_%2F_GenAI-7EB8F7?style=for-the-badge&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/B.Tech-Final_Year-a78bfa?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://komarev.com/ghpvc/?username=deepakprajapati8938-del&color=302b63&style=for-the-badge&label=VIEWS&labelColor=0f0c29" alt="views"/>
 
 <br/><br/>
 
@@ -206,10 +209,6 @@ Interactive macOS-style developer portfolio — fully custom, animated, responsi
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakprajapati8938-del&bg_color=0f0c29&color=7EB8F7&line=a78bfa&point=c7d2fe&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/deepakprajapati8938-del/deepakprajapati8938-del/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 
 </div>
@@ -221,6 +220,5 @@ Interactive macOS-style developer portfolio — fully custom, animated, responsi
 
 *"Good code solves the problem. Great code makes the next problem* **easier to solve.***"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
 
 </div>
