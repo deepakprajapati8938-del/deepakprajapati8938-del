@@ -196,18 +196,9 @@ Interactive macOS-style developer portfolio — fully custom, animated, responsi
 <br/>
 
 <!-- ═══════════════ STATS ═══════════════ -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🐍 Contributions</h2>
 
 <div align="center">
-
-<img src="./profile/stats.svg" height="180"/>
-<img src="./profile/top-langs.svg" height="180"/>
-
-<br/>
-
-<img src="./profile/streak.svg" alt="GitHub Streak"/>
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/deepakprajapati8938-del/deepakprajapati8938-del/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 
